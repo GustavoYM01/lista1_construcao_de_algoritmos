@@ -34,6 +34,7 @@ public class JavaApplication1 {
         // Resultado final
         System.out.println(n1);
         System.out.println(n2);
+        System.out.println(aux);
         
     }
     
